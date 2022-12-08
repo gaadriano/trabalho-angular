@@ -1,0 +1,18 @@
+.opcoes {
+    padding: 25px 25px 25px 0;
+    display: flex;
+    justify-content: left;
+}
+
+.opcoes .refresh {
+    margin-left: 15px;
+}
+
+.listagem {
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    background-color: #fff;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.27);
+    -webkit-box-shadow: 0 0 3px rgba(0, 0, 0, 0.27);
+}
